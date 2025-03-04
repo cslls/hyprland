@@ -23,7 +23,6 @@ modules:
     install:
       - wofi
       - neovim
-      - kitty-terminfo
       - pcmanfm-qt
       - feh
     remove:
